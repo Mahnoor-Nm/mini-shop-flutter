@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400438706418",
+    "project_id": "mini-shop-grocery",
+    "storage_bucket": "mini-shop-grocery.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400438706418:android:2c7934eec8cd4877a8906b",
+        "android_client_info": {
+          "package_name": "com.example.grocery_mart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnquEpsDcVNW3i449ut8_kGgES0BUU5KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

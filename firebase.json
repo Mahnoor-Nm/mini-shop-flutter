@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "mini-shop-grocery",
+          "configurations": {
+            "android": "1:400438706418:android:2c7934eec8cd4877a8906b",
+            "ios": "1:400438706418:ios:d6ad1471e12b5350a8906b"
+          }
+        }
+      },
+      "android": {
+        "default": {
+          "projectId": "mini-shop-grocery",
+          "appId": "1:400438706418:android:2c7934eec8cd4877a8906b",
+          "fileOutput": "android/app/google-services.json"
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  }
+}
